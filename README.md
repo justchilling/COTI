@@ -1,2 +1,2 @@
 # COTI
-A high-level, strategic product that analyzes narratives, psychological impact, and audience sentiment.
+A high-level, strategic product focusing on Social Botnets and AI that analyzes digital narratives, psychological impact, and audience sentiment.
